@@ -132,6 +132,13 @@ export const membersByYear: MembersByYear = {
       description: "Keeps progsu running smoothly behind the scenes. Owns execution, finances, logistics, and systems.",
       specialties: ["Operations", "Logistics", "Finance"]
     },
+    {
+      name: "Charan",
+      role: "CMO",
+      team: "Growth · Content",
+      description: "Owns progsu's visual identity and design quality. Ensures everything looks intentional, clean, and on-brand.",
+      specialties: ["Visual Design", "Branding", "Graphics"]
+    },
 
     // GROWTH — OUTREACH TEAM
     {
@@ -171,7 +178,7 @@ export const membersByYear: MembersByYear = {
       role: "Tech",
       major: "CS",
       team: "Development",
-      description: "Leads web development and maintains the technical infrastructure for progsu. Supports MLH operations and contributes across development, operations, and growth.",
+      description: "Leads technical team operations for progsu. Builds learning experiences, skill development pipelines, and maintains the club's infrastructure.",
       github: "JohnSang16",
       linkedin: "johnsang-/",
       specialties: ["Web Dev", "Operations", "Full Stack"]
@@ -183,7 +190,6 @@ export const membersByYear: MembersByYear = {
       description: "Designs and runs technical programs, workshops, and build-focused events.",
       specialties: ["Events", "Workshops", "Planning"]
     },
-
     // OPERATIONS
     {
       name: "Dev",

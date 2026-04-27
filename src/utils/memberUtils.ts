@@ -137,6 +137,7 @@ export function getRolePriority(role: string): number {
     "Design": 8,
     "Content": 8,
     "Community": 8,
+    "VP": 4,
     "Tech": 8,
     "Program": 8,
     "Finance": 8,
@@ -251,7 +252,7 @@ export function separateMembersByDisplayType(members: Member[]): {
  * 
  * @param role - The member's role string
  * @returns Appropriate placeholder description text
- * 
+ * c
  * @example
  * getPlaceholderDescription("Founding President")
  * // → "Founding President of progsu. More details about their incredible journey coming soon..."
