@@ -151,6 +151,13 @@ export const membersByYear: MembersByYear = {
 
     // GROWTH — CONTENT TEAM
     {
+      name: "Charan",
+      role: "CMO",
+      team: "Growth · Content",
+      description: "Owns the visual identity and design quality for progsu. Ensures everything looks intentional, clean, and on-brand.",
+      specialties: ["Visual Design", "Branding", "Graphics"]
+    },
+    {
       name: "Fred",
       role: "Content",
       team: "Growth · Content",
@@ -171,7 +178,7 @@ export const membersByYear: MembersByYear = {
       role: "Tech",
       major: "CS",
       team: "Development",
-      description: "Leads web development and maintains progsu's technical infrastructure. Supports MLH operations and contributes across development, operations, and growth.",
+      description: "Leads technical team operations for progsu. Builds learning experiences, skill development pipelines, and maintains the club's infrastructure.",
       github: "JohnSang16",
       linkedin: "johnsang-/",
       specialties: ["Web Dev", "Operations", "Full Stack"]
