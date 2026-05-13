@@ -1,8 +1,8 @@
 # PROGSU Website
 
-Official website for Georgia State University's Programming Club, built with modern web technologies to serve our growing community of developers and programming enthusiasts.
+Official website for progsu, built with modern web technologies to serve our growing community of developers and programming enthusiasts.
 
-## About PROGSU
+## About progsu
 
 progsu is Georgia State University's premier programming club, dedicated to fostering an inclusive and supportive technology community for students at all skill levels. Our mission is to provide learning opportunities, networking events, and practical programming experience to help students grow as developers and professionals.
 
@@ -35,8 +35,8 @@ progsu is Georgia State University's premier programming club, dedicated to fost
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/ProgClubGSU/ProgClubSite.git
-cd ProgClubSite
+git clone https://github.com/ProgClubGSU/progsu.com.git
+cd progsu.com
 ```
 
 2. Install dependencies:
@@ -63,7 +63,7 @@ npm run fmt          # Format code with Prettier
 ## Project Structure
 
 ```
-ProgClubSite/
+progsu.com/
 ├── src/
 │   ├── components/           # Reusable UI components
 │   │   ├── Navbar.astro     # Site navigation
@@ -237,7 +237,7 @@ This file contains the club's historical timeline displayed on the `/history` pa
 1. **Fork the repository** on GitHub
 2. **Clone your fork** locally:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/ProgClubSite.git
+   git clone https://github.com/YOUR-USERNAME/progsu.com.git
    cd ProgClubSite
    ```
 
